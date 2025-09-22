@@ -1,0 +1,11 @@
+{
+  "domain": "netatmo_custom",
+  "name": "Netatmo Custom (getstationsdata)",
+  "documentation": "https://example.invalid/netatmo_custom",
+  "version": "0.1.0",
+  "requirements": [],
+  "codeowners": ["@yourhandle"],
+  "iot_class": "cloud_polling",
+  "config_flow": true,
+  "loggers": ["custom_components.netatmo_custom"]
+}
